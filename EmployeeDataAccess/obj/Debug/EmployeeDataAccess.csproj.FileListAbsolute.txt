@@ -1,0 +1,9 @@
+D:\DotNet\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\DotNet\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\DotNet\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\DotNet\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\DotNet\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\DotNet\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\DotNet\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\DotNet\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\DotNet\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
